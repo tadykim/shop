@@ -1,0 +1,15 @@
+.nopage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 56px);
+    background: #efefef;
+}
+.nopage p strong {
+    font-size: 60px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.7);
+}
+.nopage p{
+    font-size: 20px;
+}
